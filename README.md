@@ -3,3 +3,5 @@
 Hi，同学们好，感谢大家的信任购买这个课程。查看课程对应代码请 checkout 到对应的 commit
 
 这里是配套课件的链接：[点击我查看配套课件](https://www.notion.so/React-491ad0643476437cafde50bee4dde6ed)
+
+![](https://luo0412.oss-cn-hangzhou.aliyuncs.com/1648811577995-TBXmtYBiJWN5.png)
